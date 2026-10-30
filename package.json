@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
- "homepage": "https://itadmin630.github.io/PIP-GO",
+  "homepage": "https://itadmin630.github.io/PIP-GO",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.3.3",
-    "lucide-react": "^1.59.0",
+    "lucide-react": "^1.63.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
