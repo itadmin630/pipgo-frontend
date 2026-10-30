@@ -1,0 +1,9 @@
+name: Deploy React to Hostinger
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+# ... (kode ke bawahnya biarkan sama)
